@@ -6,6 +6,8 @@ This repository contains a comprehensive comparative analysis of quantum technol
 
 ## Key Findings
 
+![Patent Trends Comparison](analysis/visualizations/patent_trends_simple.png)
+
 ### Patent Leadership
 - **China**: 37% of global quantum patents (2003-2022), leading in quantum communications (34%)
 - **United States**: 28% of global quantum patents, leading in quantum computing hardware and research quality
@@ -59,6 +61,28 @@ This analysis uses patent filing trends as a proxy for innovation activity and t
 - Competition has intensified significantly since 2017
 
 ## Usage
+
+### Running Analysis Scripts
+
+Generate visualizations from the data:
+
+```bash
+# Install required packages
+pip install pandas matplotlib seaborn numpy
+
+# Generate patent trends chart
+python3 analysis/simple_patent_chart.py
+
+# Run comprehensive analysis (requires matplotlib GUI)
+python3 analysis/patent-trends-analysis.py
+```
+
+### Generated Visualizations
+
+The analysis scripts create professional charts showing:
+- Patent filing trends over time (2014-2024)
+- Technology category breakdowns (Computing, Communications, Sensing)
+- Comparative growth rates and leadership metrics
 
 See individual analysis scripts in `/analysis/` for data processing and visualization code. Executive summaries and detailed findings are available in `/reports/`.
 
