@@ -62,6 +62,18 @@ This analysis uses patent filing trends as a proxy for innovation activity and t
 
 See individual analysis scripts in `/analysis/` for data processing and visualization code. Executive summaries and detailed findings are available in `/reports/`.
 
+## References
+
+### Key Sources
+- **ECIPE** (2024). Benchmarking Quantum Technology Performance: Governments, Industry, Academia and their Role in Shaping our Technological Future
+- **ITIF** (2024). How Innovative Is China in Quantum? & China Is Challenging U.S. Leadership in Quantum Technologies
+- **McKinsey & Company** (2025). The Year of Quantum: From concept to reality in 2025
+- **PatentsView** (2024). USPTO Patent Data Download Tables
+- **WIPO** (2024). World Intellectual Property Indicators 2024
+- **QED-C** (2024). State of Quantum Industry Innovation – What Patents Tell Us
+
+*For complete bibliography and detailed citations, see [CITATIONS.md](CITATIONS.md)*
+
 ## Author
 
 Research conducted as part of comparative technology policy analysis study.
